@@ -3,7 +3,7 @@ using Xunit;
 
 namespace FreelancePortal.Tests
 {
-    public class UnitTest1
+    public class ProjectTests
     {
         [Fact]
         public void FooTest()
